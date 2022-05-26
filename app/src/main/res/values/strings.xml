@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">listado</string>
+
+
+     <string-array name="arraysitoProducto">
+         <item>silla</item>
+         <item>mesa</item>
+         <item>mueble</item>
+         <item>televisor</item>
+         <item>mouse</item>
+         <item>pc</item>
+         <item>teclado</item>
+         <item>parlantes</item>
+     </string-array>
+
+
+    <string-array name="arraysitoPrecio">
+        <item>30.00</item>
+        <item>70.00</item>
+        <item>800.00</item>
+        <item>400.00</item>
+        <item>50.00</item>
+        <item>3000.00</item>
+        <item>70.00</item>
+        <item>70.00</item>
+    </string-array>
+
+
+</resources>
